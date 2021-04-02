@@ -6,7 +6,9 @@
 }
 body {
 	font-family: 'Hind Siliguri', sans-serif;
-	font-size: 14px;
+	font-size: 2rem;
+	line-height: 2.4rem;
+	font-weight:500;
 }
 
 h2 {
