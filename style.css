@@ -7,7 +7,7 @@
 body {
 	font-family: 'Hind Siliguri', sans-serif;
 	font-size: 1.2rem;
-	line-height: 1.5rem;
+	line-height: 1.33rem;
 }
 
 h2 {
@@ -49,7 +49,8 @@ h2 {
 	font-size: 2.5rem;
 }
 .container {
-	width: 100%;
+	width: 100vw;
+	height: 100vh;
 	padding-right: 15px;
 	padding-left: 15px;
 	margin-right: auto;
