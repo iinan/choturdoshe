@@ -312,8 +312,8 @@ h2 {
 .page .page-content .page-text {
 	height: 100%;
 	flex-grow: 1;
-	font-size: 1em;
-	line-height: 1.2em;
+	font-size: 1.2rem;
+	line-height: 1.4rem;
 	text-align: justify;
 	padding-top: 10px;
 	padding-left: 30px;
