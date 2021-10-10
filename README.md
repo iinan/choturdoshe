@@ -1,7 +1,9 @@
-# milondoho
+# চতুর দোষে 
 
-Milondoho is the 2nd poetry collection by Tamim Yiameen. 
+ইফতেখার ইনান 
 
-This page is an experiment on how the book can be previewed online. 
+সনেটের এই সংকলনটি তিন পর্বে বিভক্ত। প্রতি পর্বে রয়েছে ১৪টি সনেট। অপ্রাসঙ্গিকভাবে উল্লেখ্য, মানুষ ১৪টি পেশী ব্যবহার করে হাসে। 
 
-Yes, you can steal the code and make something with it. 
+আবার, মানুষ যখন বিরক্ত হয়ে ভ্রূকুটি করে তখন ব্যবহৃত হয় ৪৩টি পেশী। 
+
+এই বইতে ৪৩ থেকে ১ কম, অর্থাৎ মোট ৪২টি কবিতা রয়েছে। 
