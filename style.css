@@ -8,8 +8,8 @@ body {
 	width: 100vw;
 	height: 100vh;
 	font-family: 'Hind Siliguri', sans-serif;
-	font-size: 1.3rem;
-	line-height: 1.4rem;
+	font-size: 1rem;
+	line-height: 1.2rem;
 }
 
 h2 {
@@ -312,8 +312,8 @@ h2 {
 .page .page-content .page-text {
 	height: 100%;
 	flex-grow: 1;
-	font-size: 1.3rem;
-	line-height: 1.4rem;
+	font-size: 1em;
+	line-height: 1.2em;
 	text-align: justify;
 	padding-top: 10px;
 	padding-left: 30px;
